@@ -1,0 +1,11 @@
+    Patrocinador principal: Mercado Libre
+    Patrocinadores globales:
+        Coca-Cola
+        Mastercard
+        EA Sports
+        Crypto.com
+        SportingBet
+        TLC
+    Socios oficiales:
+        Powerade
+        Nike

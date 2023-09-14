@@ -1,0 +1,17 @@
+    Patrocinador principal: Visa
+    Patrocinadores globales:
+        Coca-Cola
+        Mastercard
+        Sony
+        Toyota
+        Adidas
+        Gillette
+        Budweiser
+        Socios.com
+    Socios oficiales:
+        Claro
+        Movistar
+        Tigo
+        AFA
+        CONMEBOL
+        FIFA

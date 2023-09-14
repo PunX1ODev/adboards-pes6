@@ -1,0 +1,9 @@
+    Patrocinador principal: Binance
+    Patrocinadores nacionales:
+        Banco Nación
+        Quilmes
+        YPF
+        Mc Donald's
+        PedidosYa
+        TCL
+        Naldo

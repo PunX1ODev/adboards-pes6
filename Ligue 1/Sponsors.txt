@@ -1,0 +1,15 @@
+    Patrocinador principal: Uber Eats
+    Patrocinadores globales:
+        Nike, marca de ropa deportiva estadounidense
+        Emirates, aerolínea de los Emiratos Árabes Unidos
+        Orange, compañía de telecomunicaciones francesa
+        Conforama, cadena de muebles francesa
+        Canal+, compañía de medios de comunicación francesa
+    Patrocinadores locales:
+        Betclic, plataforma de apuestas deportivas francesa
+        Intersport, cadena de artículos deportivos francesa
+        TotalEnergies, compañía energética francesa
+        SFR, compañía de telecomunicaciones francesa
+        L'Équipe, periódico deportivo francés
+        Le Parisien, periódico regional francés
+        France Bleu, cadena de radio francesa

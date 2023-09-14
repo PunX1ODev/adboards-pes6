@@ -1,0 +1,12 @@
+    Patrocinador principal: Mastercard
+    Patrocinadores globales:
+        Amstel
+        MasterCard
+        EA Sports
+        Coca-Cola
+        Crypto.com
+        SportingBet
+        TLC
+    Socios oficiales:
+        Powerade
+        Nike

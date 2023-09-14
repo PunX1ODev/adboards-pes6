@@ -1,0 +1,16 @@
+    Patrocinador principal: EA Sports
+    Patrocinadores globales:
+        Puma, marca de ropa deportiva alemana
+        Mahou, marca de cerveza española
+        Visit Saudi, agencia de turismo de Arabia Saudita
+        BKT, marca de neumáticos italiana
+        Gol-Ball™, plataforma de fantasy football
+    Patrocinadores locales:
+        El Corte Inglés, cadena de tiendas española
+        Allianz, compañía de seguros alemana
+        Nissan, fabricante de automóviles japonés
+        Burger King, cadena de comida rápida estadounidense
+        Solán de Cabras, marca de agua mineral española
+        vivo, marca de teléfonos inteligentes china
+        Haier, fabricante de electrodomésticos chino
+        Panini, fabricante de cromos y coleccionables italiano

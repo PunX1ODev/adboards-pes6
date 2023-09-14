@@ -1,0 +1,8 @@
+    Patrocinador principal: BetPlay
+    Patrocinadores nacionales:
+        Cerveza Águila
+        Golty
+        Avianca
+        Win Sports
+        Cabify
+        Vivo

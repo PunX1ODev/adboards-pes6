@@ -1,0 +1,12 @@
+    Patrocinador principal: Hisense
+    Patrocinadores globales:
+        Alipay
+        Booking
+        Fedex
+        Socar
+        Volkswagen
+    Socios oficiales:
+        Coca-Cola
+        Heineken
+        Takeaway
+        Vivo

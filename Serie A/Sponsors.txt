@@ -1,0 +1,11 @@
+    Patrocinador principal: TIM, compañía de telecomunicaciones italiana
+    Patrocinadores globales:
+        Nike, marca de ropa deportiva estadounidense
+        EA Sports, compañía de videojuegos estadounidense
+        Socios.com, plataforma de blockchain y fan tokens
+    Patrocinadores locales:
+        Allianz, compañía de seguros alemana
+        Jeep, fabricante de automóviles estadounidense
+        Samsung, fabricante de electrónica de consumo surcoreano
+        Intesa Sanpaolo, banco italiano
+        TIM, compañía de telecomunicaciones italiana

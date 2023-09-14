@@ -1,0 +1,11 @@
+    Patrocinador principal: Adidas
+    Patrocinadores globales:
+        Alipay
+        Atos
+        Lidl
+        Vivo
+        Engelbert Strauss
+    Socios oficiales:
+        Deutsche Bahn
+        Ergo
+        Socios.com

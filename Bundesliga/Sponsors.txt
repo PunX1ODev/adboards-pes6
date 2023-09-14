@@ -1,0 +1,17 @@
+    Patrocinadores globales:
+        TAG Heuer, marca de relojes suiza
+        EA Sports, desarrollador de videojuegos estadounidense
+        Hermes, marca de lujo francesa
+        Sky, proveedor de televisión por satélite británico
+        Adidas, marca de ropa deportiva alemana
+        Krombacher, marca de cerveza alemana
+        Grundig, marca de electrónica alemana
+
+    Patrocinadores locales:
+        1&1, proveedor de servicios de Internet alemán
+        Coca-Cola, marca de refrescos estadounidense
+        Deutsche Telekom, compañía de telecomunicaciones alemana
+        Mercedes-Benz, fabricante de automóviles alemán
+        Siemens, empresa de ingeniería alemana
+        Telekom Deutschland, compañía de telecomunicaciones alemana
+        UniCredit, banco italiano
