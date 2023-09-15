@@ -1,0 +1,10 @@
+    Patrocinador principal: Mastercard
+    Patrocinadores globales:
+        Heineken
+        Oppo
+        Turkish Airlines
+        Gazprom - Falta
+        FedEx
+    Socios oficiales:
+        PlayStation
+        EA Sports

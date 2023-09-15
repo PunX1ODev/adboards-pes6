@@ -1,0 +1,7 @@
+    Patrocinador principal: Heineken 0.0
+    Patrocinadores globales:
+        Just Eat Takeaway
+        Hankook Tire
+        Engelbert Strauss
+        Enterprise Rent-A-Car
+        Swissquote

@@ -1,0 +1,18 @@
+    Patrocinador principal: Budweiser
+
+    Patrocinadores globales:
+        Nike, marca de ropa deportiva estadounidense
+        Bet365, plataforma de apuestas deportivas británica
+        Cadbury, fabricante de chocolate británico
+        EA Sports, compañía de videojuegos estadounidense
+        Vitality, compañía de seguros de salud británica
+
+    Patrocinadores locales:
+        Cazoo, compañía de compra y venta de automóviles en línea británica
+        Carabao, marca de bebidas energéticas tailandesa
+        KitKat, marca de chocolate británica
+        ManBetX, plataforma de apuestas deportivas británica
+        EE, compañía de telecomunicaciones británica
+        Nivea, marca de productos de belleza alemana
+        Samsung, fabricante de electrónica de consumo surcoreano
+        Sports Direct, cadena de artículos deportivos británica

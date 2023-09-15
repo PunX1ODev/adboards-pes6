@@ -1,0 +1,10 @@
+    Patrocinador principal: Adidas
+    Patrocinadores globales:
+        Alipay
+        Atos
+        Lidl
+        Vivo
+        Engelbert Strauss
+    Socios oficiales:
+        Deutsche Bahn - Falta
+        Ergo - Falta

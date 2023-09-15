@@ -1,9 +1,0 @@
-    Patrocinador principal: Heineken 0.0
-    Patrocinadores globales:
-        Just Eat Takeaway
-        Hankook Tire
-        Engelbert Strauss
-        Enterprise Rent-A-Car
-        Swissquote
-        Bwin (excepto Albania, Azerbaiyán, Bosnia y Herzegovina, Kazajistán, Kosovo y Turquía)
-        Socios.com (solo en Estados Unidos)
