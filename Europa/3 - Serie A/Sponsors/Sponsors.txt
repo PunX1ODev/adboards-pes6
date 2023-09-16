@@ -8,4 +8,3 @@
         Jeep, fabricante de automóviles estadounidense
         Samsung, fabricante de electrónica de consumo surcoreano
         Intesa Sanpaolo, banco italiano
-        TIM, compañía de telecomunicaciones italiana
