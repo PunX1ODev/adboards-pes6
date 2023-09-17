@@ -10,8 +10,7 @@
     Patrocinadores locales:
         1&1, proveedor de servicios de Internet alemán
         Coca-Cola, marca de refrescos estadounidense
-        Deutsche Telekom, compañía de telecomunicaciones alemana
+        Deutsche Telekom (T-Mobile), compañía de telecomunicaciones alemana
         Mercedes-Benz, fabricante de automóviles alemán
         Siemens, empresa de ingeniería alemana
-        Telekom Deutschland, compañía de telecomunicaciones alemana
         UniCredit, banco italiano
